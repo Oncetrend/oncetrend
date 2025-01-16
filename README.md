@@ -4,11 +4,10 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🚀 About Me
 
-- 🎓 **Education**: [Your Degree/Field] from [Your University].
-- 💼 **Current Role**: [Your Job Title] at [Your Company].
-- 🌱 **Learning**: Currently diving into [Topic/Technology].
+- 🎓 **Education**: [Software engineering] from [Stanford University].
+- 🌱 **Learning**: Currently diving into [Cybersecurity/Ethical Hacking].
 - 💡 **Interests**: [e.g., Web Development, Machine Learning, Open Source Contributions].
-- 📫 **How to reach me**: [Your Email or LinkedIn Profile].
+- 📫 **How to reach me**: [contactsto@oncetrend.in].
 
 ---
 

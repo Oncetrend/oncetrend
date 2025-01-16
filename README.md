@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Sub]! 👋
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -22,33 +22,32 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ### Frameworks & Tools
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- [Add more tools...]
+
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oncetrend&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oncetrend&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/YourUsername/Project1)
-**Description**: A brief description of the project.
+### [Project ](https://github.com/YourUsername/Project1)
+**Description**: Update soon...
 
-### [Project Name 2](https://github.com/YourUsername/Project2)
-**Description**: A brief description of the project.
-
+### [Project ](https://github.com/YourUsername/Project2)
+**Description**: Update Soon..
 ---
 
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
-- [Your personal website/blog link if available]
+- [Our website](https://www.oncetrend.in/)
 
 ---
 
